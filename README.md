@@ -1,6 +1,6 @@
 # PyBer Analysis
 ## Overview of the Analysis: 
-#### The purpose of the new analysis is to improve access to ride sharing services and determine affordability for under served neighborhoods, as well as for urban and suburban areas. The analysis will elaborate the relationship between the type of city and the number of drivers and riders, as well as the percentages of total fares, drivers, and riders by type of city. 
+#### The purpose of the new analysis is to improve access to ride-sharing services and determine affordability for under served neighborhoods, as well as for urban and suburban areas. The analysis will elaborate the relationship between the type of city and the number of drivers and riders, as well as the percentages of total fares, drivers, and riders by type of city. 
 
 ## Results: 
 - #### All figures and charts in "analysis" folder.

@@ -10,3 +10,7 @@
 
 ## Summary: 
 #### Three business recommendations I would give to the CEO would be to hire more drivers in the rural city and at the same time aim to lower the fare for more people to use the service just like in urban and suburban cities. Another recommendation is to market some kind of benefit for becoming a driver in the rural city to increase the amount of drivers. The third recommendation would be to level out the fare cost between all three city types and aim to not make it increase or decrease throughout the years of service and having more drivers to keep it on that track.
+
+## Contact:
+##### E-mail: gutierrezpaul7@yahoo.com
+##### LinkedIn: https://www.linkedin.com/in/pwgutierrez
